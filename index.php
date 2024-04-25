@@ -45,7 +45,6 @@ echo mediaIdade($pessoas);
 ?>
 
 <?php
-//ex3
 function pessoaMaisVelha($pessoas) {
     $maisVelha = null;
     $idadeMaxima = 0;
