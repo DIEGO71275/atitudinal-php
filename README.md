@@ -1,3 +1,3 @@
 # atitudinal-php
 
-integrantes: Diego dos Santos Duque, Matheus Tavares e Natã de Almeida
+integrantes: Diego dos Santos Duque, Mateus Tavares e Natã de Almeida
